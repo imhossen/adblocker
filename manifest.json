@@ -13,7 +13,8 @@
         "webRequest",
         "webRequestBlocking",
         "http://*/",
-        "https://*/"
+        "https://*/",
+        "<all_urls>"
     ],
     "icons": {
         "16": "icons/logo_16x16.png",
